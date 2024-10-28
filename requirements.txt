@@ -1,0 +1,11 @@
+trafilatura
+PyPDF2>=3.0.0
+torch>=2.0.0
+transformers>=4.36.0
+accelerate>=0.27.0
+tqdm>=4.66.0
+rich>=13.7.0
+ipywidgets>=8.1.0
+TTS>=0.22.0
+soundfile>=0.12.1
+python-dateutil>=2.8.2
