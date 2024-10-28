@@ -1,0 +1,10 @@
+{
+    "podcast_title": "Your Podcast Title",
+    "podcast_description": "Your podcast description",
+    "author": "Your Name",
+    "email": "your.email@example.com",
+    "language": "en-us",
+    "category": "Technology",
+    "explicit": "no",
+    "base_url": "https://your-domain.com/podcasts/"
+}
